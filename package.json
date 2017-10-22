@@ -1,0 +1,26 @@
+{
+  "name": "mocha-master",
+  "version": "1.0.0",
+  "description": "mocha ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhulinwei/mocha-master.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Level.Z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhulinwei/mocha-master/issues"
+  },
+  "homepage": "https://github.com/zhulinwei/mocha-master#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "mocha": "^3.5.0"
+  }
+}
